@@ -1,0 +1,6 @@
+jax
+numpy
+matplotlib
+plotly
+jupyter
+ipykernel
